@@ -4,6 +4,10 @@
 
 <br/>
 
+### 모든 기능이 [Denizen-1.20.6](https://github.com/uniqueleru/Denizen-1.20.6)으로 통합되었으니, 참고 바랍니다.
+
+<br/>
+
 ## 이 프로젝트가 사용된 영상들
 
 * [점프하면 죽는 마인크래프트](https://www.youtube.com/watch?v=NQivQFAErGE)
